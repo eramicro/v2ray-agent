@@ -15,6 +15,7 @@ BWH3RWL6HR89 优惠4.3%
 
 套餐名称|内存|CPU|硬盘|流量|带宽|价格|推荐理由|购买链接
 ---|---|---|---|---|---|---|---|---
+CN2 GIA 限量版|1G|1核|20G|500G|1Gbps|89.99 USD/年|CN2 GIA【非常适合电信】、日本软银【非常适合联通】等，移动速度尚可，借道电信的也可以【歌华】|[购买链接](https://bandwagonhost.com/aff.php?aff=64917&pid=105)
 CN2 GIA|1G|2核|20G|1T|2.5Gbps|169.99 USD/年|DC6 CN2 GIA【非常适合电信】、日本软银【非常适合联通】等，移动速度尚可，借道电信的也可以【歌华】|[购买链接](https://bandwagonhost.com/aff.php?aff=64917&pid=87)
 HONG KONG CN2 GIA|2G|2核|40G|500G|1Gbps|$899.99 USD/年|香港 CN2 GIA、香港 PCCW|[购买链接](https://bandwagonhost.com/aff.php?aff=64917&pid=95)
 CN2|1G|1核|20G|1T|1Gbps|49.99 USD/年|DC3 CN2、DC8 ZNET 等 8 个机房，不推荐购买|[购买链接](https://bandwagonhost.com/aff.php?aff=64917&pid=87)
