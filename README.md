@@ -1,20 +1,5 @@
 # v2ray-agent
 
-> [感谢 JetBrains 提供的非商业开源软件开发授权](https://www.jetbrains.com/?from=v2ray-agent)
-
-> [Thanks for non-commercial open source development authorization by JetBrains](https://www.jetbrains.com/?from=v2ray-agent)
-
-> [English Version](https://github.com/mack-a/v2ray-agent/blob/master/documents/en/README_EN.md)
-
-- [Cloudflare 优化方案](https://github.com/mack-a/v2ray-agent/blob/master/documents/optimize_V2Ray.md)
-- [流量中转](https://github.com/mack-a/v2ray-agent/blob/master/documents/traffic_relay.md)
-- [手动自建教程](https://github.com/mack-a/v2ray-agent/blob/master/documents/Cloudflare_install_manual.md)
-- [ssh入门教程](https://www.v2ray-agent.com/2020-12-16-ssh%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B)
-- [TG群](https://t.me/technologyshare)、[TG频道-更新通知](https://t.me/v2rayagentshare)、[博客地址](https://www.v2ray-agent.com/)
-- **请给个⭐支持一下**
-
-* * *
-
 # 目录
 
 - [1.脚本安装](#1vlesstcptlsvlesswstlsvmesstcptlsvmesswstlstrojan-伪装站点-五合一共存脚本)
@@ -126,7 +111,7 @@
 - Latest Version【推荐】
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh
 ```
 
 # 示例图
