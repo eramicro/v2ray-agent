@@ -111,7 +111,7 @@
 - Latest Version【推荐】
 
 ```
-wget -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh
+wget -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700  && ./install.sh
 ```
 
 # 示例图
