@@ -1,38 +1,8 @@
 # v2ray-agent
 
-# 目录
-
-- [1.脚本安装](#1vlesstcptlsvlesswstlsvmesstcptlsvmesswstlstrojan-伪装站点-五合一共存脚本)
-    - [组合方式](#组合方式)
-    - [组合推荐](#组合推荐)
-    - [特性](#特性)
-    - [注意事项](#注意事项)
-    - [安装脚本](#安装脚本)
 
 * * *
 
-# 1.八合一共存脚本+伪装站点
-
-- [Cloudflare入门教程](https://github.com/mack-a/v2ray-agent/blob/master/documents/cloudflare_init.md)
-
-## 特性
-
-- 支持[Xray-core[XTLS]](https://github.com/XTLS/Xray-core)、v2ray-core
-- 支持切换前置[VLESS XTLS -> Trojan XTLS]、[Trojan XTLS -> VLESS XTLS]
-- 支持不同核心之间的配置文件互相读取
-- 支持 VLESS/VMess/trojan 协议
-- 支持Debian、Ubuntu、Centos，支持主流的cpu架构。**不建议使用Centos以及低版本的系统，2.3.x后不再支持Centos6**
-- 支持个性化安装
-- 支持多用户管理
-- 支持Netflix检测、支持DNS流媒体解锁、支持任意门解锁Netflix
-- 无需卸载即可安装、重装任意组合
-- 支持卸载时保留Nginx、tls证书。如果acme.sh申请的证书在有效的情况下，不会重新签发
-- 支持纯IPv6，[IPv6注意事项](https://github.com/mack-a/v2ray-agent/blob/master/documents/ipv6_help.md)
-- 支持IPv4[入]->IPv6分流[出]
-- 支持WARP分流
-- 支持日志管理
-- 支持多端口配置
-- [支持自定义证书安装](https://github.com/mack-a/v2ray-agent/blob/master/documents/install_tls.md)
 
 ## 支持的安装类型
 
@@ -89,20 +59,6 @@
 - **低版本脚本升级高版本时无法启动问题，[请点击此链接查看解决方案](https://github.com/mack-a/v2ray-agent/blob/master/documents/how_to_use.md#4%E4%BD%8E%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7%E9%AB%98%E7%89%88%E6%9C%AC%E5%90%8E%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8%E6%A0%B8%E5%BF%83)**
 
 ## [脚本使用指南](https://github.com/mack-a/v2ray-agent/blob/master/documents/how_to_use.md)、[脚本目录](https://github.com/mack-a/v2ray-agent/blob/master/documents/how_to_use.md#5脚本目录)
-
-## 捐赠
-
-[您可以使用我的AFF进行购买VPS捐赠](https://www.v2ray-agent.com/%E6%82%A8%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E6%88%91%E7%9A%84AFF%E8%B4%AD%E4%B9%B0vps%E6%8D%90%E8%B5%A0)
-
-[支持通过虚拟币向我捐赠](https://github.com/mack-a/v2ray-agent/blob/master/documents/donation.md)
-
-## 客户端推荐
-- Android
-  - [AnXray](https://github.com/XTLS/AnXray/releases)
-- iOS
-  - Shadowrocket
-- windows/Mac/Linux
-  - [Qv2ray](https://github.com/Qv2ray/Qv2ray/actions)[推荐action版本]
   
 ## 安装脚本
 
@@ -111,7 +67,7 @@
 - Latest Version【推荐】
 
 ```
-wget -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700  && ./install.sh
+wget -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 install.sh && ./install.sh
 ```
 
 # 示例图
